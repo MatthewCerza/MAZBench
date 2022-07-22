@@ -1,6 +1,8 @@
 # MAZBench
 MAZBench is a mathematical benchmark written in Java
 
+This program was made when I was bored waiting in an airport terminal and is far from perfect.
+
 Features:
 - Mathematical benchmarks involving irrational numbers and random generation to properly utilize multiple cores
 - Torture test function to have tests run without a time limit
